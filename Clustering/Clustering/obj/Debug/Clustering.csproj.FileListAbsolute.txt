@@ -1,0 +1,12 @@
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\Bin\Debug\ApplicationIcon.png
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\Bin\Debug\Background.png
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\Bin\Debug\Clustering.dll
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\Bin\Debug\Clustering.pdb
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\Bin\Debug\AppManifest.xaml
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\Bin\Debug\Clustering.xap
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\obj\Debug\App.g.i.cs
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\obj\Debug\MainPage.g.i.cs
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\obj\Debug\Clustering.g.resources
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\obj\Debug\Clustering.dll
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\obj\Debug\Clustering.pdb
+c:\users\caleb\documents\visual studio 2010\Projects\Clustering\Clustering\obj\Debug\XapCacheFile.xml
