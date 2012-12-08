@@ -1,4 +1,4 @@
 Clustering
 ==========
 
-Clustering Method's
+Clustering Methods
